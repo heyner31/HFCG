@@ -1,6 +1,6 @@
 <?php 
 
-	echo "Hola mundo prros"; 
+	echo "Hola profesor, soy heyner"; 
 
 ?>
 <!DOCTYPE html>
